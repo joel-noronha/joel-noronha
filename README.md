@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **joel.noronha0912@gmail.com**
 
-- 📄 Know about my experiences,education and achivements [RESUME](https://drive.google.com/file/d/1KtKc5rRcMc6lLS0nE2PS-V_ETMCOMf-M/view?usp=drive_link)
+- 📄 Know about my experiences,education and achivements [RESUME](https://drive.google.com/file/d/1NcIZbEb-qPY6qZ1I9xvNxgSSFfricztg/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
