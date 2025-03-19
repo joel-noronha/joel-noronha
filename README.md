@@ -1,14 +1,14 @@
-[![MasterHead]](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Joel Noronha</h1>
 <h3 align="center">Passionate Web developer . Proficient in Java, JavaScript, ReactJs and NodeJs </h3>
-<h3>Open for any opportunities of internship or as a Full-Time employee.</h3>
+<h3>Open for any opportunities of Internship or Full-Time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-noronha&label=Profile%20views&color=0e75b6&style=flat" alt="joel-noronha" /> </p>
 
 
 - 📫 How to reach me **joel.noronha0912@gmail.com**
 
-- 📄 Know about my experiences,education and achivements [RESUME](https://drive.google.com/file/d/1NcIZbEb-qPY6qZ1I9xvNxgSSFfricztg/view?usp=sharing)
+- 📄 Know about my experiences,education and achivements [RESUME]()
 
 
 <h3 align="left">Languages and Tools:</h3>
