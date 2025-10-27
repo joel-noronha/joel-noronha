@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Joel Noronha</h1>
-<h3 align="center">Passionate Web developer . Proficient in Java, JavaScript, ReactJs and NodeJs </h3>
+<h3 align="center">Passionate Web developer . Proficient in C++, JavaScript, ReactJs and NodeJs </h3>
 <h3>Open for any opportunities of Internship or Full-Time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-noronha&label=Profile%20views&color=0e75b6&style=flat" alt="joel-noronha" /> </p>
